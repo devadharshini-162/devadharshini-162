@@ -2,7 +2,7 @@
 
 # hi, i'm deva dharshini 👋
 
-*third year CS student · AI/ML person · chronic overthinker*
+*fourth year AIML student · AI/ML person · chronic overthinker*
 
 </div>
 
