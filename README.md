@@ -88,23 +88,9 @@ hospital OPD token management system. patients register, get tokens automaticall
 
 ---
 
-## numbers if you care 📊
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devadharshini-162&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devadharshini-162&layout=compact&hide_border=true&theme=default)
-
-</div>
-
-**LeetCode** — 1600+ · **CodeChef** — 1400+, 2★
-
----
-
 ## currently 📍
 
-- 3rd year @ Chennai Institute of Technology
+- 4th year @ Chennai Institute of Technology
 - building things, breaking things, overthinking both
 - open to internships, collabs, and interesting problems
 
