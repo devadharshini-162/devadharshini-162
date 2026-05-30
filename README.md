@@ -102,6 +102,5 @@ if you're working on something in AI/ML or just want to talk about why your loss
 
 📬 [deva44368@gmail.com](mailto:deva44368@gmail.com) · [linkedin](https://www.linkedin.com/in/deva-dharshini-murugesan-46a1a9290/)
 
-<img src="https://komarev.com/ghpvc/?username=devadharshini-162&style=flat-square&color=grey"/>
 
 </div>
